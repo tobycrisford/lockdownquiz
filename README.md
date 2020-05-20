@@ -6,7 +6,7 @@ Q5. Did you get the previous question correct? You may change your answer to the
 
 You want to maximize the difference between your score and the average of everyone else's.
 
-Turns out there is a simple intuitive solution, so numerical solution was overkill.
+Turns out there is a simple intuitive solution (at least intuitive that it works at large n), so numerical solution was probably overkill.
 
 Choose True/No with probability such that if everyone uses that probability, there is 1/2 probability that someone says True (depends on number of players).
 
